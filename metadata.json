@@ -1,0 +1,4 @@
+{
+  "name": "Gerador de Roteiro para o Rio de Janeiro",
+  "description": "Um aplicativo que gera um roteiro de viagem personalizado para o Rio de Janeiro usando a API Gemini, com base nas preferências do usuário, como duração da viagem, estilo e interesses."
+}
